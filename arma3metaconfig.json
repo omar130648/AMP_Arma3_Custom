@@ -1,0 +1,8 @@
+[
+    {
+        "ConfigFile": "server.cfg",
+        "AutoMap": true,
+        "ConfigType": "template",
+        "ConfigFileTemplate": "./arma3/233780/AMP_server.cfg"
+    }
+]
